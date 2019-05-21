@@ -14,6 +14,10 @@ body {
   }
 }
 
+a {
+  color: #4F628E;
+}
+
 .blueback {
   background: #4F628E;
   /*background: #7887AB;*/
