@@ -14,13 +14,32 @@ body {
   }
 }
 
-a {
+/*a {
+  color: #4F628E;
+}*/
+
+.blueback {
+  background: #E6E9EC;
+  /*color: #003366;*/
+  /*background: #4F628E;*/
+  /*background: #7887AB;*/
+}
+
+h3.my-3 {
+  text-decoration: underline;
+}
+
+.navbar-light .navbar-brand {
+  color: #4F628E;
+  font-weight: 550;
+}
+
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
   color: #4F628E;
 }
 
-.blueback {
-  background: #4F628E;
-  /*background: #7887AB;*/
+.display-4 {
+  color: #4F628E;
 }
 
 .map-container{
